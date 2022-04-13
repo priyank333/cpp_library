@@ -1,0 +1,3 @@
+count (5) : 2
+count (5) After erase for all similar elements : 0
+count (6) After erase for single element : 1
